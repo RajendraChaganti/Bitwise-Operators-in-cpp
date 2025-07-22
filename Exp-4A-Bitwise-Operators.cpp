@@ -30,3 +30,15 @@ int main() {
     cout << "\na >> 1 = " << rightShift << " (Right Shift by 1 bit)";
     return 0;
 }
+/*
+Output
+Enter first number a: 2
+Enter second number b: 3
+
+a & b = 2 (Bitwise AND)
+a | b = 3 (Bitwise OR)
+a ^ b = 1 (Bitwise XOR)
+~a = -3 (Bitwise NOT of a)
+a << 1 = 4 (Left Shift by 1 bit)
+a >> 1 = 1 (Right Shift by 1 bit)
+*/
