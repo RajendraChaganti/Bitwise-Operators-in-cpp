@@ -20,3 +20,12 @@ int main() {
     cout << "After resetting bit at position " << resetBitPos << ": " << afterReset << endl;
     return 0;
 }
+/*
+Output
+Enter the bit position to SET (0-indexed): 2
+Enter the bit position to RESET (0-indexed): 3
+
+Original number: 50
+After setting bit at position 2: 54
+After resetting bit at position 3: 50
+*/
